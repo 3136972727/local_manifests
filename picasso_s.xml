@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- Device tree -->
-  <project name="masemoel/device_xiaomi_picasso" path="device/xiaomi/picasso" remote="github" revision="crDroid-SL"/>
+  <project name="3136972727/device_xiaomi_picasso" path="device/xiaomi/picasso" remote="github" revision="crDroid-SL"/>
 
 <!-- Kernel -->
-  <project name="EndCredits/android_kernel_xiaomi_sm7250" path="kernel/xiaomi/picasso" remote="github" revision="12.0-main"/>
+  <project name="EndCredits/clo_msm-4.19" path="kernel/xiaomi/picasso" remote="github" revision="android-4.19-clo"/>
   
 <!-- Vendor -->
   <project name="masemoel/vendor_xiaomi_picasso" path="vendor/xiaomi/picasso" remote="github" revision="android-12.1"/>
